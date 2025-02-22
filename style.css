@@ -1,0 +1,184 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.az{
+color: rgb(83, 253, 111);
+float: left;
+font-size: 30px;
+background-color: rgb(19, 168, 236);
+border-radius: 100%;
+}
+ul{
+float: right;
+list-style: none;
+}
+
+li{
+float: left;
+padding: 15px;
+font-size: px;
+color: wheat;
+}
+nav{
+height: 70px;
+background-color: blue;
+}
+
+a{
+text-decoration: none;
+color: wheat;
+}
+.wx{
+    text-align: center;
+}
+.wc{
+    text-align: center;
+}
+.efg{
+    text-align: center;
+}
+
+.but1{
+    border-radius: 100%;
+background-color: brown;
+color: white;
+
+}
+.content{
+background-image: url(str.jpg);
+height:400px;
+text-align: center;
+background-attachment: fixed;
+
+}
+
+.ca:hover{
+    border-radius: 80%;
+background-color: rgb(25, 25, 26);
+}
+.cb:hover{
+    border-radius: 80%;
+    background-color: rgb(15, 15, 15);
+}
+.cc:hover{
+    border-radius: 80%;
+    background-color: rgb(36, 22, 48);
+}
+.cd:hover{
+    border-radius: 100%;
+    background-color: rgb(28, 27, 29);
+}
+
+.c1{
+
+    padding: 150px;
+}
+.wc{
+    color: white;
+    font-size: 50px;
+    color: burlywood;
+}
+
+.efg{
+    margin-top: 25px;
+    color: burlywood;
+}
+
+.but1{
+   margin-top: 20px;
+}
+.a1{
+color: blue;
+margin-top: 30px;
+margin: 30px;
+}
+.img1{
+  
+
+width: 30%;
+float: right;
+}
+.c2{
+width: 70%;
+float: left;
+
+}
+.img2{
+    height: 400px;
+    width: 320px;
+}
+.but2{
+    margin: 40px;
+    border-radius: 100%;
+    color: burlywood;
+    background-color: crimson;
+    margin-left: 50px;
+}
+.nos{
+margin: 30px;
+
+}
+.nos{
+color: blue;
+
+}
+.t2{
+width: 30%;
+height: 150px;
+float: left;
+padding: 10px;
+background-color: rgb(173, 172, 172);
+text-align: center;
+}
+h2{
+    text-align: center;
+margin-bottom:20px;
+}
+
+.t2:hover{
+background-color:rgb(255, 243, 243) ;
+
+}
+.po{
+margin: 15px;
+color: blue;
+}
+.but3{
+    margin: 40px;
+    border-radius: 100%;
+    color: burlywood;
+    background-color: crimson;
+    margin-left: 60px;
+    margin: 30px;
+}
+.bt{
+    text-align: left;
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
